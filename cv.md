@@ -37,5 +37,5 @@ function noSpace(x){
 
 ### Languages:
 * English B1
-* French
 * Russian
+* French
