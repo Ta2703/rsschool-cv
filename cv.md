@@ -1,24 +1,30 @@
 # ***Tamara Yablonskaya***
+
 *****
 
-### Contact: 
+### Contact
+
 * My phone: 375 29 5365536
 * E-mail: alekseevna.ta2703@gmail.com
 * Website: www.linkedin.com/in/ta2703
 
-### About Me 
+### About Me
+
 *My name is Tamara Yablonskaya.*
  *I'm 27 yers. I am from Belarus,*
 *but now I live in Georgia.*
 
-### Skills:
-- HTML
-- CSS
-- GitHub
-- JS
-- React
+### Skills
+
+* HTML
+
+* CSS
+* GitHub
+* JS
+* React
 
 ### Code example
+
 ```
 function noSpace(x){
   var result = ""
@@ -31,12 +37,13 @@ function noSpace(x){
 }
 ```
 
-### Education:
+### Education
+
 * Belarusian State University, Faculty of Law
 * IT-school "TeachMeSkills", Front End Developer
 
+### Languages
 
-### Languages:
 * English B1
 * Russian
 * French
